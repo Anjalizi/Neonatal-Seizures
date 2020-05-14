@@ -1,2 +1,3 @@
 .ipynb_checkpoints
 *.edf
+__pycache__
